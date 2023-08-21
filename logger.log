@@ -1,0 +1,187 @@
+INFO:create_bot:Starting bot
+INFO:create_bot:Starting bot
+INFO:create_bot:Starting bot
+INFO:create_bot:Try connect
+INFO:create_bot:Starting bot
+INFO:create_bot:Try connect
+INFO:create_bot:connected
+INFO:create_bot:In cursor
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052380 is not handled. Duration 0 ms by bot id=5921117513
+INFO:aiogram.event:Update id=47052381 is not handled. Duration 0 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052382 is handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052383 is handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052386 is not handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052388 is handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052395 is handled. Duration 1 ms by bot id=5921117513
+INFO:aiogram.event:Update id=47052396 is handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052397 is handled. Duration 1 ms by bot id=5921117513
+INFO:aiogram.event:Update id=47052398 is handled. Duration 0 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052399 is handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052401 is handled. Duration 1 ms by bot id=5921117513
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:aiogram.event:Update id=47052403 is not handled. Duration 35356 ms by bot id=5921117513
+INFO:create_bot:Starting bot
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @twopercent_4_testbot id=5921117513 - 'twopercent_4_testbot'
+INFO:aiogram.event:Update id=47052404 is not handled. Duration 60455 ms by bot id=5921117513
+ERROR:aiogram.event:Cause exception while process update id=47052404 by bot id=5921117513
+TelegramNetworkError: Telegram server says Request timeout error
+Traceback (most recent call last):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/client/session/aiohttp.py", line 153, in make_request
+    async with session.post(
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiohttp/client.py", line 1141, in __aenter__
+    self._resp = await self._coro
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiohttp/client.py", line 467, in _request
+    with timer:
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiohttp/helpers.py", line 721, in __exit__
+    raise asyncio.TimeoutError from None
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 297, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 146, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 23, in __call__
+    return await handler(event, data)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 39, in __call__
+    return await handler(event, data)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 264, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 131, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 115, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 111, in _wrapped
+    return await self._propagate_event(
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 124, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 123, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 42, in call
+    return await wrapped()
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/tgbot/handlers/echo.py", line 16, in get_id
+    await message.answer(text)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/methods/base.py", line 89, in emit
+    return await bot(self)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/client/bot.py", line 374, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 194, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/home/twopercent/PycharmProjects/pythonProject/Commercial/tgbot_template/venv/lib/python3.10/site-packages/aiogram/client/session/aiohttp.py", line 158, in make_request
+    raise TelegramNetworkError(method=method, message="Request timeout error")
+aiogram.exceptions.TelegramNetworkError: Telegram server says Request timeout error
