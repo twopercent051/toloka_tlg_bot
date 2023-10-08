@@ -14,4 +14,4 @@ services:
     command: python3 -m bot
     restart: always
     env_file:
-      - ".env_dist"
+      - ".env"

@@ -10,7 +10,7 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 from tgbot.config import load_config
 from tgbot.middlewares.config import ConfigMiddleware
 
-config = load_config(".env_dist")
+config = load_config(".env")
 r = redis.Redis(host=config.rds.host, port=config.rds.port, db=config.rds.db)
 storage = RedisStorage(redis=r) if config.tg_bot.use_redis else MemoryStorage()
 bot = Bot(token=config.tg_bot.token, parse_mode='HTML')
@@ -20,6 +20,8 @@ scheduler = AsyncIOScheduler()
 logger = logging.getLogger(__name__)
 log_level = logging.INFO
 bl.basic_colorized_config(level=log_level)
+
+DATABASE_URL = f'postgresql+asyncpg://{config.db.user}:{config.db.password}@{config.db.host}:5432/{config.db.database}'
 
 
 def register_global_middlewares(dp: Dispatcher, config):

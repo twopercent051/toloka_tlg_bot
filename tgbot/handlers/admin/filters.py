@@ -1,10 +1,17 @@
+from typing import Union
+
 from aiogram.filters import BaseFilter
-from aiogram.types import Message
+from aiogram.types import Message, CallbackQuery
 
 from tgbot.config import Config
 
-class AdminFilter(BaseFilter):
-    is_admin: bool = True
 
-    async def __call__(self, obj: Message, config: Config) -> bool:
-        return (str(obj.chat.id) == config.misc.admin_group) == self.is_admin
+class AdminFilter(BaseFilter):
+    is_root: bool = True
+
+    async def __call__(self, obj: Union[Message, CallbackQuery], config: Config) -> bool:
+        if isinstance(obj, Message):
+            var = str(obj.chat.id)
+        else:
+            var = str(obj.message.chat.id)
+        return (var in config.tg_bot.admin_group) == self.is_root
